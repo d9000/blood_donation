@@ -1,0 +1,50 @@
+[
+	{
+		"Description" : "O RhD Negativo"
+	},
+	{
+		"Description" : "O RhD Positivo"
+	},
+	{
+		"Description" : "A RhD Negativo"
+	},
+	{
+		"Description" : "A RhD Positivo"
+	},
+	{
+		"Description" : "B RhD Negativo"
+	},
+	{
+		"Description" : "B RhD Positivo"
+	},
+	{
+		"Description" : "AB RhD Negativo"
+	},
+	{
+		"Description" : "AB RhD Positivo"
+	},
+	{
+		"Description" : "O"
+	},
+	{
+		"Description" : "A"
+	},
+	{
+		"Description" : "B"
+	},
+	{
+		"Description" : "AB"
+	},
+	{
+		"Description" : "para-Bombay RhD Negativo"
+	},
+	{
+		"Description" : "para-Bombay RhD Positivo"
+	},
+	{
+		"Description" : "Bombay RhD Negativo"
+	},
+	{
+		"Description" : "Bombay RhD Positivo"
+	}
+]
